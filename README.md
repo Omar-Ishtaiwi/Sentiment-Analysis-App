@@ -5,7 +5,7 @@ This is a React.js web app that allows a user to enter a twitter search term giv
 
 # Runnning The App
 
-##Step 1
+## Step 1
 Clone the repository to your local machine 
 
 
@@ -15,12 +15,12 @@ git clone https://github.com/Omar-Ishtaiwi/Sentiment-Analysis-App.git
 
 
 
-##Step 2
+## Step 2
 Navigate to the server.js file and edit in your Twitter API keys and Tokens.
 
 
 
-##Step 3
+## Step 3
 Install dependencies 
 
 
@@ -30,7 +30,7 @@ npm install
 
 
 
-##Step 4
+## Step 4
 Launching the app 
 
 
